@@ -32,4 +32,4 @@ pip install -r requirements.txt
 ```
 
 
-# For running the test you need to have access to Openai keys and then set OPENAI_API_KEY environment variable in .env file
+### For running the RAG pipeline and deepEval evaluations you need to have access to Openai keys and then set OPENAI_API_KEY environment variable in .env file
